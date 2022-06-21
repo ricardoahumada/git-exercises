@@ -1,4 +1,4 @@
-# Overview of the Git Kata Exercises
+# Overview of the Git Exercises
 
 ## Setup
 
